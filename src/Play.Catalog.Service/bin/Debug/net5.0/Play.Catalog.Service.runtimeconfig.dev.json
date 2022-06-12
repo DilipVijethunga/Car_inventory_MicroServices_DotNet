@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\DILIP\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\DILIP\\.nuget\\packages"
+    ]
+  }
+}
